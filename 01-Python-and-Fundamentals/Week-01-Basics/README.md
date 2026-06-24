@@ -12,14 +12,13 @@ Week 1
 * Conditional Statements
 * Loops (for, while)
 * Functions
+* Python file handling & data workflows
+* Hands-on with NumPy & Pandas for data analysis
+* APIs & web scraping using BeautifulSoup, Requests & Selenium WebDriver
 
 ---
 
 ## 💻 Practice Work
-
-* Solved 20+ problems on loops
-* Built a simple calculator
-* Practiced input/output programs
 
 ---
 
@@ -33,16 +32,16 @@ Week 1
 
 ## 🚧 Challenges Faced
 
-* Understanding nested loops
-* Debugging syntax errors
+* Understanding file Handling
+* API Calling
+* Numpy and Pandas
 
 ---
 
 ## 📌 Resources Used
 
-* Python Docs
-* YouTube Tutorials
-* Practice Platforms (HackerRank / LeetCode)
+* "Python for Data Science, AI & Development” course on Coursera (IBM).
+* YouTube Resource CodeWithHarry
 
 ---
 
