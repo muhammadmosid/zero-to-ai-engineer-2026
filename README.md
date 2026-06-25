@@ -1,12 +1,12 @@
 # zero-to-ai-engineer-2026
 My personal learning repository for the 2026 AI Engineer Roadmap. Tracking progress across Python, ML, Deep Learning, MLOps, and Agentic AI frameworks.
-# 🚀 AI Engineer Roadmap 2026
+# AI Engineer Roadmap 2026
 
 A complete step-by-step journey to becoming an AI Engineer in 32 weeks.
 
 ---
 
-## 📌 Progress Tracker
+## Progress Tracker
 
 * [ ] Phase 1: Python & Fundamentals (Weeks 1–4)
 * [ ] Phase 2: Data Handling (Week 5)
@@ -18,7 +18,7 @@ A complete step-by-step journey to becoming an AI Engineer in 32 weeks.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 AI-Engineer-Roadmap-2026/
@@ -32,7 +32,7 @@ AI-Engineer-Roadmap-2026/
 
 ---
 
-## 🎯 Goal
+## Goal
 
 To master:
 
@@ -44,19 +44,19 @@ To master:
 
 ---
 
-## 🧠 Daily Study Plan
+## Daily Study Plan
 
-* ⏱️ 4 Hours Daily
-* 📘 70% Learning
-* 💻 30% Hands-on Practice
+* 4 Hours Daily
+* 70% Learning
+* 30% Hands-on Practice
 
 ---
 
-## 🚀 Projects
+## Projects
 
-* 🏠 Bangalore House Price Prediction
-* 🤖 NLP / Computer Vision Project
-* 🧠 GenAI Agent System
+* Bangalore House Price Prediction
+* NLP / Computer Vision Project
+* GenAI Agent System
 
 ---
 
